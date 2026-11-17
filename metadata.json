@@ -1,0 +1,6 @@
+{
+  "name": "Local 84 Agreement Bot",
+  "description": "Document-grounded Q&A assistant for the Georgia Statewide Outside Construction Line Agreement (2025–2028) between Southeastern Line Constructors Chapter, NECA and Local Union 84, IBEW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
